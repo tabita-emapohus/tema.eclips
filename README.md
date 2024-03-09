@@ -200,6 +200,21 @@ public class Main2 {
 			 x = x / 10;
 		 }
 		 System.out.println(max);*/
+      //Problema 18 
+		 /*int x = scanner.nextInt();
+		 int min;
+		 min = 10;
+		 int c;
+		 c = 0;
+		 while(x > 0) {
+			 c = x % 10;
+			 if(c < min) {
+				 min = c;
+			 }
+			 x = x /10;	 
+		 }
+		 System.out.println(min);*/
+
 		 
     
 
