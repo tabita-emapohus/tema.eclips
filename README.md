@@ -73,6 +73,17 @@ public class Main2 {
 	        		  }
 	        	  }
 	          }*/
+	    // Problema 5 
+	          
+	          /*int s=0;
+	          int i;
+	          for( i = 1; i <= x; i++) {
+	        	  s = s + i*2;
+	          }
+	          
+	          System.out.println(s);
+	          */
+
 
 	 
  
