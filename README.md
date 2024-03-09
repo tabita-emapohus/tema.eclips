@@ -112,6 +112,25 @@ public class Main2 {
 	          }
 	          System.out.println(FACT);
 	          */
+	   //Problema 9
+	          /*boolean prim;
+	          prim = true;
+	          int i;
+	          if(x <= 1) {
+	        	  prim = false;
+	          }
+	          for(i = 2; i <= x-1; i++) {
+	        	  if(x % i == 0) {
+	        		  prim = false;
+	        	  }
+	          }
+	          if(prim == true) {
+	        	  System.out.println("PRIM");
+	          }
+	          else {
+	        	  System.out.println("NU E PRIM");
+	          }
+	          */
 
 
 	 
