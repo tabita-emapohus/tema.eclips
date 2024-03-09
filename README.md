@@ -104,6 +104,14 @@ public class Main2 {
 	          
 	          System.out.println(ma);
 	          */
+	   //Problema 8
+	          /*int FACT=1;
+	          int i;
+	          for( i = 1; i <= x; i++) {
+	        	  FACT = FACT * i;
+	          }
+	          System.out.println(FACT);
+	          */
 
 
 	 
