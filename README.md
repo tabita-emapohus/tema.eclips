@@ -15,8 +15,7 @@ public class Main2 {
 	            System.out.println("INVALID");
 	        } 
 	        }*/
-	 
-//Problema 2
+	 //Problema 2
 	        /*String numarlitera="";
 	        if(x >= 1 && x<= 5 ) {
 	        	switch(x) {
@@ -44,3 +43,6 @@ public class Main2 {
 	        {
 	        	System.out.println("INVALID");
 	        }*/
+	 
+ 
+  
