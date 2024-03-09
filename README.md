@@ -131,6 +131,14 @@ public class Main2 {
 	        	  System.out.println("NU E PRIM");
 	          }
 	          */
+	   //Problema 11
+	          /* int i;
+	          for(i = 1; i<= x; i++) {
+	        	  if(x % i == 0) {
+	        		  System.out.println(i);
+	        	  }
+	          }
+	            */ 
 
 
 	 
