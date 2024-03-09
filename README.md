@@ -15,3 +15,32 @@ public class Main2 {
 	            System.out.println("INVALID");
 	        } 
 	        }*/
+	 
+//Problema 2
+	        /*String numarlitera="";
+	        if(x >= 1 && x<= 5 ) {
+	        	switch(x) {
+	        	case 1:
+	        		numarlitera="UNU";
+	        		break;
+	        	case 2:
+	        		numarlitera="DOI";
+	        		break;
+	        	case 3:
+	        		numarlitera="TREI";
+	        		break;
+	        	case 4:
+	        		numarlitera="PATRU";
+	        		break;
+	        	case 5:
+	        		numarlitera="CINCI";
+	        		break;
+	        		default:
+	        			break;
+	        	}
+	        	System.out.println("Numarul " + x +  " este " + numarlitera);
+	        }
+	        else
+	        {
+	        	System.out.println("INVALID");
+	        }*/
