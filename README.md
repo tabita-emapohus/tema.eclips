@@ -150,6 +150,21 @@ public class Main2 {
 			        }
 				 }
 			 }*/
+    // Problema 14 
+		 
+		 /*int a;
+		 int b;
+		 
+		 for(a = 17; a < 1000; a = a + 17) {
+			 for(b = 19; b< 1000; b = b + 19) {
+			  if((a % 17 == 0 || a % 13 == 0) && (b % 19 == 0 || b % 7 == 0)) {
+				  if(a + b == 1000) {
+					  System.out.println("Perechea " + a + ", " + b);
+				  }
+			  }
+			 }
+		 }*/
+    
 
 
 	 
