@@ -176,6 +176,16 @@ public class Main2 {
 				 }
 			 }
 		 }*/
+       //Problema 16
+		/* int x = scanner.nextInt();
+		 int nrcif;
+		 nrcif=0;
+		 while(x != 0) {
+			 nrcif = x % 10;
+			 System.out.print( nrcif);
+			 x = x/10;
+		 }
+		 */
     
 
 
