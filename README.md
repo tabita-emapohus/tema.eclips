@@ -43,6 +43,21 @@ public class Main2 {
 	        {
 	        	System.out.println("INVALID");
 	        }*/
+	 //Problema 3
+	          //int y = scanner.nextInt();
+	          /*if(x % 2 == 0 && y % 2 == 0) {
+	        	  System.out.println((x + y )/2);
+	          }
+	          else {
+	        	  if(x % 2 == 1 && y % 2 == 1) {
+	        		  System.out.println(x * y);
+	        	  }
+	        	  else {
+	        		  if(x % 2 == 0 && y % 2 == 1 || x % 2 == 1 && y % 2 == 0) {
+	        			  System.out.println(x + y);
+	        		  }
+	        	  }
+	          }*/
 	 
  
   
