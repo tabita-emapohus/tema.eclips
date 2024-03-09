@@ -58,6 +58,22 @@ public class Main2 {
 	        		  }
 	        	  }
 	          }*/
+	    //Problema 4
+	          //int z = scanner.nextInt();
+	         /* if(x < y && x < z) {
+	        	  System.out.println(x);
+	          }
+	          else {
+	        	  if(y < x && y < z) {
+	        		  System.out.println(y);
+	        	  }
+	        	  else {
+	        		  if(z < x && z < y) {
+	        			  System.out.println(z);
+	        		  }
+	        	  }
+	          }*/
+
 	 
  
   
