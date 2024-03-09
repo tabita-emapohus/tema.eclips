@@ -139,6 +139,17 @@ public class Main2 {
 	        	  }
 	          }
 	            */ 
+	     //Problema 13 
+		 /*int a;
+		 int b;
+		 
+		 for(a = 17; a < 1000; a = a + 17) {
+			 for(b = 19; b< 1000; b = b + 19) {
+				 if(a + b == 1000) {
+					 System.out.println("Perechea " + a + ", " + b);
+			        }
+				 }
+			 }*/
 
 
 	 
