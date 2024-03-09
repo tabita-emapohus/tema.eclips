@@ -93,6 +93,17 @@ public class Main2 {
 	          }
 	          System.out.println(s);
 	          */
+	   //Problema 7 
+	          /*int s=0;
+	          int i;
+	          float ma=0;
+	          for( i = 0; i <= x; i++) {
+	        	  s = s + i;
+	          }
+	          ma = s / x;
+	          
+	          System.out.println(ma);
+	          */
 
 
 	 
