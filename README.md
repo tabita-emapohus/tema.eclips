@@ -214,6 +214,17 @@ public class Main2 {
 			 x = x /10;	 
 		 }
 		 System.out.println(min);*/
+     //Problema 19
+		 /*int x = scanner.nextInt();
+		 int invers;
+		 invers = 0;
+		 int a;
+		 while(x > 0) {
+			 a = x % 10;
+			 invers = invers *10 + a;
+			 x = x/ 10;
+		 }
+		 System.out.println("Inversul numarului este " + invers);*/
 
 		 
     
