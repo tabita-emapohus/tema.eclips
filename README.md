@@ -83,6 +83,16 @@ public class Main2 {
 	          
 	          System.out.println(s);
 	          */
+	     
+	          // Problema 6
+	          
+	          /*int s=0;
+	          int i;
+	          for( i = 1; i <= 2* x-1; i = i + 2) {
+	        	  s = s +i;
+	          }
+	          System.out.println(s);
+	          */
 
 
 	 
