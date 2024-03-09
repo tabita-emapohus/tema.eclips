@@ -164,6 +164,18 @@ public class Main2 {
 			  }
 			 }
 		 }*/
+     //Problema 15
+		 /*int x;
+		 int a;
+		 int b;
+		 for(a =0; a <= 9; a++) {
+			 for(b = 0; b <= 9; b++) {
+				 x = 3000 + a* 100 + 20 +b;
+				 if(x % 9 == 0) {
+					 System.out.println(x);
+				 }
+			 }
+		 }*/
     
 
 
