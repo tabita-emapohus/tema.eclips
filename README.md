@@ -5,7 +5,7 @@ public class Main2 {
 	public static void main(String[] args) {
 		 Scanner scanner = new Scanner(System.in);
 	          //int x = scanner.nextInt();
-	          /*Problema 1
+	          //Problema 1
 	        if (x > 5) {
 	            System.out.println("ADMIS");
 	        }else {
@@ -14,7 +14,7 @@ public class Main2 {
 	        	if (x < 1 && x > 10) {
 	            System.out.println("INVALID");
 	        } 
-	        }*/
+	        }
 	 //Problema 2
 	        /*String numarlitera="";
 	        if(x >= 1 && x<= 5 ) {
@@ -225,6 +225,27 @@ public class Main2 {
 			 x = x/ 10;
 		 }
 		 System.out.println("Inversul numarului este " + invers);*/
+    // Problema 20 
+		 
+		/* int x = scanner.nextInt();
+		 int m;
+		 m=x;
+		 int ogl;
+		 ogl = 0;
+		 while(m > 0) {
+			 ogl = ogl * 10 + m % 10;
+		 m = m / 10;
+		 }
+		 if(ogl == x) {
+			 System.out.println("Polindrom ");
+		 }
+		 else {
+			 System.out.println(" Nu e palindrom");
+		 }*/
+	        scanner.close();
+	    }
+
+	}
 
 		 
     
