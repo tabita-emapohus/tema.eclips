@@ -186,6 +186,21 @@ public class Main2 {
 			 x = x/10;
 		 }
 		 */
+      //Problema 17 
+		 /*int x = scanner.nextInt();
+		 int max; 
+		 int c;
+		 c = 0;
+		 max = 0;
+		 while(x > 0) {
+			 c = x % 10;
+			 if(c > max) {
+				 max = c;
+			 }
+			 x = x / 10;
+		 }
+		 System.out.println(max);*/
+		 
     
 
 
